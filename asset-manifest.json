@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/projectimperium/static/css/main.3cdf10a0.css",
+    "main.js": "/projectimperium/static/js/main.9cb735a8.js",
+    "static/js/787.7455233a.chunk.js": "/projectimperium/static/js/787.7455233a.chunk.js",
+    "index.html": "/projectimperium/index.html",
+    "main.3cdf10a0.css.map": "/projectimperium/static/css/main.3cdf10a0.css.map",
+    "main.9cb735a8.js.map": "/projectimperium/static/js/main.9cb735a8.js.map",
+    "787.7455233a.chunk.js.map": "/projectimperium/static/js/787.7455233a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cdf10a0.css",
+    "static/js/main.9cb735a8.js"
+  ]
+}
