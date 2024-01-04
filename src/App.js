@@ -137,17 +137,11 @@ function App(props) {
                     </div>{" "}
                     <div className="column-9">
                         <div className="div-9">
-                            <div>New Map, A PVE Oasis Unveiled</div>
+                            <div>Clear Cove Chronicles: Season 7 Unveiled</div>
                         </div>{" "}
                         <div className="div-10">
                             <div>
-                                Embark on Season 7's revolutionary journey with &quot;Orchid
-                                Society.&quot; This new standalone map transforms Project
-                                Imperium, featuring The Island as a PVE hub, powered by a unique
-                                private mod. Encounter a world of fresh survival challenges
-                                where resources, both scarce and abundant, redefine your Zomboid
-                                experience. Welcome to the dynamic landscapes of Orchid Society
-                                in Season 7.
+                                Embark on Season 7's defining journey with the "Clear Cove Chronicles." Witness a transformed landscape as the base game's vanilla map evolves into Clear Cove, a realm filled with secrets waiting to be unearthed. Brace for an array of survival challenges where resources vary in availability, presenting a dynamic and ever-shifting landscape. Welcome to the heart of Season 7, where exploration is key, and survival takes on a new meaning.
                             </div>
                         </div>
                     </div>
